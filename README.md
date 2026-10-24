@@ -1,6 +1,6 @@
 # Example app for CI Hexlet course
 
-[![Node CI](https://github.com/Gera2221/hexlet-ci-app/actions/workflows/main.yml/badge.svg)](https://github.com/Gera2221/hexlet-ci-app/actions/workflows/main.yml)
+[![.github/workflows/setup-lint-test.yml](https://github.com/Gera2221/hexlet-ci-app/actions/workflows/setup-lint-test.yml/badge.svg)](https://github.com/Gera2221/hexlet-ci-app/actions/workflows/setup-lint-test.yml)
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
 
