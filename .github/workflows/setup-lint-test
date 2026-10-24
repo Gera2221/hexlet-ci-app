@@ -1,0 +1,9 @@
+jobs:
+  setup-lint-test:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout
+    - run: make setup
+    - run: make lint
+    - run: make test
+  
